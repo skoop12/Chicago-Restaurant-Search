@@ -6,4 +6,24 @@ The site consists of various search forms to obtain information about Chicago re
 
 The site also includes the ability to add/modify/delete restaurant data to allow users to have an active role in maintaining accurate event and happy hour information.  
 
+The below images provide a short overview of the site:
+
+The front page contains menu links to the 'Restaurant', 'Happy Hour', and 'Events' sections of the site.
+
+![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/FrontPage.png)
+
+If a user navigates to the 'Restaurant' section of the page, they have the option to go to the 'Search' forms or the 'Add' forms
+
+![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/Restaurant.png)
+
+The below form shows how a user can add a new restaurant to the database:
+
+![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/RestaurantForm.png)
+
+Similar forms are available for adding/modifying happy hours or events.  The below search form shows a sample search function allowing users to find happy hours based on neighborhood, day, and time.
+
 ![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/HappyHourForm.png)
+
+The output of the above happy hour search is shown below.
+
+![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/HappyHourResults.png)
