@@ -5,3 +5,5 @@ This website was created as part of a Databases course for the MPCS program.    
 The site consists of various search forms to obtain information about Chicago restaurant locations, hours, happy hour deals, and events.
 
 The site also includes the ability to add/modify/delete restaurant data to allow users to have an active role in maintaining accurate event and happy hour information.  
+
+![alt text]https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/HappyHourForm.png
