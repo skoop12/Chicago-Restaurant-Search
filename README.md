@@ -6,17 +6,20 @@ The site consists of various search forms to obtain information about Chicago re
 
 The site also includes the ability to add/modify/delete restaurant data to allow users to have an active role in maintaining accurate event and happy hour information.  
 
+The site can be accessed here:
+https://mpcs53001.cs.uchicago.edu/~skoop/
+
 The below images provide a short overview of the site:
 
 The front page contains menu links to the 'Restaurant', 'Happy Hour', and 'Events' sections of the site.
 
 ![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/FrontPage.png)
 
-If a user navigates to the 'Restaurant' section of the page, they have the option to go to the 'Search' forms or the 'Add' forms
+If a user navigates to the 'Restaurant' section of the page, they have the option to go to the 'Search' forms or the 'Add' forms.
 
 ![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/Restaurant.png)
 
-The below form shows how a user can add a new restaurant to the database:
+The below form shows how a user can add a new restaurant to the database.
 
 ![alt text](https://github.com/skoop12/Chicago-Restaurant-Search/blob/master/site_photos/RestaurantForm.png)
 
